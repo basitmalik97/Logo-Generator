@@ -1,0 +1,27 @@
+{
+  "name": "logo-generator",
+  "version": "1.0.0",
+  "description": "It's a Logo Generator for SVG format. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basitmalik97/Logo-Generator.git"
+  },
+  "keywords": [
+    "Logo",
+    "SVG",
+    "Generator"
+  ],
+  "author": "Basit Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basitmalik97/Logo-Generator/issues"
+  },
+  "homepage": "https://github.com/basitmalik97/Logo-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}
